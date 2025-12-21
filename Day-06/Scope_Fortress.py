@@ -3,8 +3,8 @@ x = 10
 
 
 def change_x(x=20):
+    """define tha variable value"""
     print(x)
 
-x=x+1
 
 print(x)
