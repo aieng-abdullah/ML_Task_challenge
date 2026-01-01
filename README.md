@@ -49,14 +49,11 @@ This roadmap is intentionally comprehensive and industry-aligned:
 ---
 
 ## 📁 Repository Structure
-**
-ML_DS-journey/
-├── Day-01/ # Daily progress logs
-├── Day-02/
-├── ...
-├── projects/ # Major builds and capstone projects
-├── notes/ # Concept explanations and summaries
-└── references/ # Articles, tools, books, and resources
-**
 
+- **Day-01/** – Daily progress logs  
+- **Day-02/**  
+- **Day-03/**  
+- **projects/** – Major builds and capstone projects  
+- **notes/** – Concept explanations and summaries  
+- **references/** – Articles, tools, books, and resources 
 
